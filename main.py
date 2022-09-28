@@ -5,3 +5,4 @@ elif password == "qwert":
     print("Hello!")
 else:
     print("Доступ запрещен")
+#Adilet
